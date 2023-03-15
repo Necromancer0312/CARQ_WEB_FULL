@@ -99,7 +99,8 @@ em {
 }
 .nav-link:hover {
   font-weight: 400;
-  color: #a6dfff;
+  /* background-color: #A0D1FF; */
+  color: black !important;
 }
 /* title */
 
